@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(255, 187, 0);
+}
+th{
+    width: 100px;
+    height: 40px;
+}
+
+table td{
+    width: 100px;
+}
+
+.btn{
+    background: crimson;
+    color: white;
+    font-size: 18px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.edit{
+    background: rgb(14, 81, 250);
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.edit:hover{
+    background: blue;
+}
+
+.btn:hover{
+    background: rgb(171, 31, 59);
+}
+tr{
+    height: 70px;
+    width: 300px;
+}
+
+table{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 520px;
+    margin-top: 30px;
+}
+
+#search{
+    width: 520px;
+    border-radius: 5px;
+    height: 50px;
+    border: 3px solid crimson;
+    margin-bottom: -100px;
+}
+
+.kendrick{
+    margin-top: -350px;
+}
+
+#searchhh{
+    width: 100px;
+    border-radius: 5px;
+    height: 50px;
+    border: none;
+    background-color: crimson;
+    color: white;
+}
+
+.fiston{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.fiston input{
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+
+.fiston label{
+    font-size: 20px;
+}
+
+.fiston button{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+}
+
+.fiston button:hover{
+    background-color: crimson;
+    color: white;
+}
+
